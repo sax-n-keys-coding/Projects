@@ -1,4 +1,6 @@
-def fourSum(nums, target):
+#highly innefficient (brute force approach) but good exercise in figuring out all possible permutations
+#Time complexity: O(n^4)
+def fourSum(nums, target): 
     a = 0
     b = 0
     c = 0
