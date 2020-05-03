@@ -9,4 +9,4 @@ I'm training myself to become independent with programming skills. Since I first
 
 If you have any feedback, please don't hesitate to let me know — I'm always looking to improve my understanding of coding and better my code.
 
-I really appreciate it. Have a good day.
+I really appreciate it. Have a good day!
